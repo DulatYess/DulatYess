@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Добрый день! Рад Вас видеть! | 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Рад Вас видеть! | 
   Hey! Nice to see you.</h1>
 
 <!-- # Привет, меня зовут Дулат!
@@ -14,7 +14,7 @@ Hi, i'm Dulat Yessenaliyev, a passionate self-taught front end web developer and
 
 ---
 
-🔗 &nbsp;** Свяжитесь со мной | Connect with me**:
+### 🔗 Свяжитесь со мной | Connect with me:
 
   <div id="badges">
 <!--     <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
