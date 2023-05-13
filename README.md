@@ -38,7 +38,7 @@ Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="45" height="45" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="45" />
 </div>
 
 ---
@@ -56,7 +56,7 @@ Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" title="Instagram" width="40" height="40" alt="Instagram"/>
     </a>&nbsp;
     <a href="https://wa.me/77779402799" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-business.svg" title="WhapsApp" width="40" height="40" alt="Instagram"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" title="WhapsApp" width="40" height="40" alt="Instagram"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
