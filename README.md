@@ -24,7 +24,7 @@ Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://drive.google.com/file/d/1SHw8ej8IFV0ni9ydy-MBvWyva2TLsasc/view?usp=sharing" title="bem" alt="bem" width="40" height="40"/>&nbsp;
+  <img src="https://ltdfoto.ru/images/2023/05/13/ZAGRUZENO-removebg-preview.png" title="bem" alt="bem" width="40" height="40"/>&nbsp;
 </div>
 
 ---
