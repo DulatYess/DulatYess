@@ -56,7 +56,7 @@ Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" title="Instagram" width="40" height="40" alt="Instagram"/>
     </a>&nbsp;
     <a href="https://wa.me/77779402799" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" title="WhapsApp" width="45" height="45" alt="Instagram"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" title="WhapsApp" width="50" height="50" alt="Instagram"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
