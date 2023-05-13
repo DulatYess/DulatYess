@@ -64,7 +64,6 @@ Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     </a> -->
   </div>
 
----
 
 <!-- ### 💻 Пройденные курсы:
 
