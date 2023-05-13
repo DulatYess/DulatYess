@@ -49,10 +49,10 @@ Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <!--     <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a> -->
-    <a href="https://t.me/duk_es" target="_blank">
+    <a href="https://t.me/dulatyess" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" title="Telegram" width="40" height="40" alt="Telegram"/>
     </a>&nbsp;
-    <a href="https://instagram.com/duk_es?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
+    <a href="https://instagram.com/dulatyess?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
       <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" title="Instagram" width="40" height="40" alt="Instagram"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
