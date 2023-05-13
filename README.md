@@ -50,10 +50,10 @@ Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmT
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a> -->
     <a href="https://telegram.org/duk_es" target="_blank">
-      <img src="https://www.svgrepo.com/svg/354443/telegram" width="40" height="40" alt="Telegram"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/telegram.svg" title="Telegram" width="40" height="40" alt="Telegram"/>
     </a>
     <a href="https://telegram.org/duk_es" target="_blank">
-      <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" width="40" height="40" alt="Instagram"/>
+      <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" title="Instagram" width="40" height="40" alt="Instagram"/>
     </a>
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
