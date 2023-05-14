@@ -59,9 +59,7 @@ Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <a href="https://wa.me/77779402799" target="_blank">
       <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" title="WhapsApp" width="50" height="50" alt="Instagram"/>
     </a>
-    <a href="duka22int@gmail.com" target="_blank">
-      <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" title="gmail" width="40" height="40" alt="Instagram"/>
-    </a>&nbsp;
+
     <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a> -->
