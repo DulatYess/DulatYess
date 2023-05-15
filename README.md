@@ -9,8 +9,10 @@
 ### :man_technologist: Обо мне | About me:
 
 Привет. Я - Дулат Есеналиев <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, фронтэнд веб-разработчик-самоучка и фрилансер из Казахстана. Моя страсть к программному обеспечению заключается в том, чтобы придумывать идеи и воплощать их в жизнь с помощью элегантных интерфейсов. Я очень внимательно отношусь к архитектуре и качеству кода, который я пишу.
+Классы в HTML разметке создаю по методологии БЭМ. Полностью кроссбраузерная адаптивная верстка поддерживающая мобильные устройства с размером от 320 пикселей. Стили могу писать с использованием препроцессора sass. При помощи миксинов прописываю адаптивные шрифты меняющие свои размеры в зависимости от размера экрана. В своих работаю использую ФЛЕКСЫ и ГРИДЫ.
 
 Hi, i'm Dulat Yessenaliyev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, a passionate self-taught front end web developer and a freelance software engineer from Kazakhstan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I create classes in HTML markup using the BEM methodology. Fully cross-browser adaptive layout that supports mobile devices with a size of 320 pixels or more. Styles can be written using the sass preprocessor. With the help of mixins, I prescribe adaptive fonts that change their size depending on the screen size. In my work I use FLEX and GRID.
 
 ---
 
